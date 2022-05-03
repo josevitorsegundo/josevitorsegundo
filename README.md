@@ -13,7 +13,7 @@ Here are a few things I've picked up along my journey.
 
 ![REACTJS](https://img.shields.io/badge/react-06bcee?style=for-the-badge&logo=react&logoColor=black) ![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=black)
 
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) ![React-Native](https://img.shields.io/badge/react-native%20-%230db7ed.svg?&style=for-the-badge&logo=react-native&logoColor=white) 
 
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 <br/>
